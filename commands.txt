@@ -1,0 +1,2 @@
+in powershell, run app with this command: python app.py
+while running app in parallel, run langgraph studio with this command: langgraph dev
