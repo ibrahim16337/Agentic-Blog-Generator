@@ -1,3 +1,5 @@
-Activate venv:
-
+uv init
+uv venv
 .venv\Scripts\activate
+
+
